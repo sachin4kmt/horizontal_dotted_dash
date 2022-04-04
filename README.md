@@ -1,4 +1,4 @@
-#this exxample for make dottes line and border without dependancy.
+# This exxample for make dottes line and border without dependancy
 
 # Dotted Dash Horizontal Line
 ![image](Screenshot_2022-04-05-00-55-24-75.jpg)
