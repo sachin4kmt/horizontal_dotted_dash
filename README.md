@@ -1,6 +1,6 @@
 # horizontal_dotted_dash
 
-A new Flutter project.
+this exxample for make dottes line and border without dependancy.
 
 ## Getting Started
 
